@@ -1,0 +1,2 @@
+For the app to work you will need :
+-streamlit
